@@ -1,0 +1,32 @@
+# ID: PCSA00011
+# Title: Gravity Rush
+# Region: USA
+# Version: 1.00
+# Type: NPS Browser/NoNpDrm
+# Code Author: sifulony
+# Credits: sifulony
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00011.psv
+# Note: 
+
+# PCSA00011 
+
+
+_V0 Pink Crystal
+$0200 816871B0 00001126
+$0200 816871B4 00001126
+$0200 81BF4F30 00001126
+
+
+_V0 Unlimited Gravity Power
+$0200 8168676C 4F19297D
+$0200 81686770 4F19297E
+$0200 81686774 3F19297D
+$0200 826E68B4 426F50D4
+
+
+_V0 Invincible
+$0200 816868F0 438C0000
+$0200 816868F8 438C0000
+$0200 816868FC 438C0000
+$0200 81686904 438C0000
+$0200 816868D8 438C0000
